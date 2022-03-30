@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fontanero42
 - 👀 I’m interested in front-end
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on bootstrap
 - 📫 How to reach me ...
 
 <!---
